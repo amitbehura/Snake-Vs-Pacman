@@ -9,7 +9,7 @@ A bite-sized mash-up built in **one vanilla HTML file**—no frameworks, no buil
 ## How to win
 * **Start length:** 4  
 * **Target length:** 10 – reach it and you win!
-* **Pac-Man:** gets **2 lives**; each time you “eat” him he respawns elsewhere.  
+* **Pac-Man:** multiplies into **2 lives**; each time you “eat” him two Pac-Man respawns elsewhere.  
 * If Pac-Man touches the Snake’s body, he **bites off one segment**—stay alert.
 
 ## Running locally

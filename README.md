@@ -4,7 +4,7 @@ A bite-sized mash-up built in **one vanilla HTML file**—no frameworks, no buil
 
 | Play now | Controls |
 |----------|-----------|
-| **GitHub Pages:** <https://YOUR-USER.github.io/YOUR-REPO/> | **Arrow keys** – steer the Snake |
+| **GitHub Pages:** https://amitbehura.github.io/Snake-Vs-Pacman/ | **Arrow keys** – steer the Snake |
 
 ## How to win
 * **Start length:** 4  
